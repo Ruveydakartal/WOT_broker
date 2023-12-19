@@ -24,3 +24,4 @@ This is a React application to start the timer (will be fed via sockets) on Ardu
 - Rüveyda Kartal <ruveyda.kartal@outlook.be>
 - Victor Tanaka 
 - Tim De Paepe <tim.depaepe@arteveldehs.be># WOT_broker
+# WOT_broker
