@@ -12,13 +12,15 @@ For this project, you're Arduino/ESP needs to have access to the LAN via WiFi or
 
 ## Server
 The server has some endpoints:
-- `ledState`: will return the LED state, if it's on or off
-- `toggleLed`: toggle the LED
 - `startTimer`: starts an internal server timer
 - `stopTimer`: stops the internal server timer
+- `startProp`: starts the puzzle
+- `restartProp`: restarts the puzzle 
 
 ## Client
-This is a React application to start the timer (will be fed via sockets) and toggle the LED on Arduino/ESP.
+This is a React application to start the timer (will be fed via sockets) on Arduino/ESP.
 
 ## Author
-- Tim De Paepe <tim.depaepe@arteveldehs.be>
+- Rüveyda Kartal <ruveyda.kartal@outlook.be>
+- Victor Tanaka 
+- Tim De Paepe <tim.depaepe@arteveldehs.be># WOT_broker
